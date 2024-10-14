@@ -3,10 +3,10 @@ This repository features a collection of exploratory data science projects. Usin
 
 ## Projects
 
-### 1. [Project Name](Link-to-folder-if-applicable)
-- **Overview**: A brief description of what the project covers.
-- **Technologies Used**: R, ggplot2, Python, pandas, etc.
-- **Data Source**: Provide links or details about the dataset used.
+### 1. [Mumbai Rainfall Visualisations]([Link-to-folder-if-applicable](https://github.com/KetchupJL/Explorational-Projects/tree/main/Mumbai%20Rainfall%20%20(1900%20-%202024)))
+- **Overview**:  Array of dynamic visualisations that highlight monthly rainfall patterns, seasonal trends, and long-term climate shifts in the region..
+- **Technologies Used**: R and the ggplot2, gganimate, ggseas (and more) libraries.
+- **Data Source**: Data sourced from Kaggle,.
 - **Key Findings**: A quick summary of insights or outcomes.
 
 ### 2. [Project Name](Link-to-folder-if-applicable)
